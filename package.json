@@ -1,0 +1,14 @@
+{
+  "name": "stockapi",
+  "version": "1.0.0",
+  "description": "transposition de l'appli python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "locullus",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
